@@ -18,6 +18,7 @@ p {
   font-family: Arial
 }
 
+<<<<<<< HEAD
 th, td {
   padding: 8px;
   text-align: left;
@@ -29,4 +30,10 @@ tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
+=======
+div {
+  background-color: darkcyan;
+  text-align: right;
+}
+>>>>>>> 67749e0ba842306041541a420a55a13f5d9c113c
 
